@@ -8,5 +8,5 @@ My name is Thiago Colebrusco, currently living in São José do Rio Preto - SP, 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagocolebrusco@gmail.com)](mailto:thiagocolebrusco@gmail.com)
 
 
-- 🔭 I’m currently working ar Jobsity
+- 🔭 I’m currently working at Jobsity.
 - Vue.js | Node.js | MongoDB | PostgreSQL | Docker

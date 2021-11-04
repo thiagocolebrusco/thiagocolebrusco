@@ -10,3 +10,5 @@ My name is Thiago Colebrusco, currently living in São José do Rio Preto - SP, 
 
 - 🔭 I’m currently working at Jobsity.
 - Vue.js | Node.js | MongoDB | PostgreSQL | Docker
+
+![Snake animation](https://github.com/thiagocolebrusco/thiagocolebrusco/blob/output/github-contribution-grid-snake.svg)
